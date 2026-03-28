@@ -10,7 +10,7 @@ To this end, I did some research into drone building to see if I could create so
 The design uses a microcontroller (ESP32) to communicate with your phone. Additionally, the sensors on the board, using the MPU6050 chip, ensure that the drone can accurately control the motors and remain stable in the air.
 Furthermore, the drone will contain a replaceable 3.7-volt battery, so you do not have to wait for the battery to charge every time. Additionally, various connections are provided so that you can upgrade the drone yourself if desired, for example with a camera or a larger antenna.
 <p></p>
-As you can see in the photo (see below), the drone's legs look a bit weak. Therefore, I will design and print a small housing myself using my 3D printer to provide extra protection.
+As you can see in the photo (see above), the drone's legs look a bit weak. Therefore, I will design and print a small housing myself using my 3D printer to provide extra protection.
 <p></p>
 Finally, this project will present quite a few challenges. For instance, I have to take into account the power of the motors in relation to the weight, and ensure that the drone remains balanced after assembling all the components. But that is precisely what makes it an interesting challenge for me, one that helps me continue to grow in the world of technology.
 <p></p>
