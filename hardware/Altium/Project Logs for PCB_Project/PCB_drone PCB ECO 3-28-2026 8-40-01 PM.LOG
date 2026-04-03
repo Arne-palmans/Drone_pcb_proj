@@ -1,0 +1,10 @@
+Added Component: Designator=J1(SHENZHEN-CHUANGQIN-TECHNOLOGY_CQ-USB-C16PSMT01)
+Add Pin To Net: Unknown Pin: Pin J1-A1
+Add Pin To Net: Unknown Pin: Pin J1-A4
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-A6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-A7
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-B6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-B7
+Added Pin To Net: NetName=GND Pin=J1-S1
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Added Member To Class: ClassName=battery_regulator Member=Component J1 USBC
