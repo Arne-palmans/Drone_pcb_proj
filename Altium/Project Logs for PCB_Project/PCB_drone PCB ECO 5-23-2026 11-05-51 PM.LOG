@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J1-B4
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Added Member To Class: ClassName=debug Member=Component J9 SSW-106-02-T-S-RA
+Added Member To Class: ClassName=debug Member=Component U8 ESP32-WROOM-32

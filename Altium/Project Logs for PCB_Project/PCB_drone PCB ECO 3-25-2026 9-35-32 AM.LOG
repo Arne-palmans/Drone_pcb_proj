@@ -1,0 +1,31 @@
+Add component: Footprint Not Found QFN50P500X500X80-29N
+Added Component: Designator=U7(SOT65P210X110-6N)
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin J1-A1
+Add Pin To Net: Unknown Pin: Pin J1-A4
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-24
+Add Pin To Net: Unknown Pin: Pin U6-25
+Add Pin To Net: Unknown Pin: Pin U6-26
+Add Pin To Net: Unknown Pin: Pin U6-28
+Added Pin To Net: NetName=RTS Pin=U7-1
+Added Pin To Net: NetName=DTR Pin=U7-2
+Added Pin To Net: NetName=IO0 Pin=U7-3
+Added Pin To Net: NetName=EN Pin=U7-4
+Added Pin To Net: NetName=RTS Pin=U7-5
+Added Pin To Net: NetName=DTR Pin=U7-6
+Add Class Member: Failed to add class member : Component U6 CP2102N-Axx-xQFN28
+Added Member To Class: ClassName=debug Member=Component U7 DDC114TU-7-F
