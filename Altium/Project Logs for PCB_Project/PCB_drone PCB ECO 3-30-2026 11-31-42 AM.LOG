@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=EN Pin=U7-4
-Removed Pin From Net: NetName=DTR Pin=U7-6
-Add Pin To Net: Unknown Pin: Pin J1-A1
-Add Pin To Net: Unknown Pin: Pin J1-A4
-Add Pin To Net: Unknown Pin: Pin SW1-4
-Add Pin To Net: Unknown Pin: Pin U3-2
-Added Pin To Net: NetName=DTR Pin=U7-4
-Added Pin To Net: NetName=EN Pin=U7-6
-Added Member To Class: ClassName=debug Member=Component U8 ESP32-WROOM-32
